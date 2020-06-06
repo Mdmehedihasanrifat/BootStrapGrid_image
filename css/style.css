@@ -1,0 +1,38 @@
+.nav-link,.navbar-brand,.text-center{
+
+
+    color: white !important;
+}
+
+.jumbotron{
+
+ margin-top: 2rem;
+    background-color: #1c1515;
+}
+.navbar-brand img{
+
+    width: 50px;
+    height: 50px;
+
+
+}
+
+#item{
+
+
+    margin-left: 65%;
+    list-style: none;
+
+}
+#item li{
+    margin-top: 12px;
+    display:inline-block;
+    align-items: center;
+    color:white;
+}
+
+#jump{
+    width: 64px;
+    height: 64px;
+    position: center;
+}
